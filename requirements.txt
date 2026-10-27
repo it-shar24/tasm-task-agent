@@ -1,0 +1,5 @@
+pandas>=2.0
+# Install the SDK for the provider you use:
+# anthropic
+# openai
+# Add any other libraries you use (e.g. langgraph, rank_bm25, sentence-transformers, chromadb).
